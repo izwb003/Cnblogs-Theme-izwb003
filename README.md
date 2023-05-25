@@ -1,5 +1,5 @@
 # Cnblogs-Theme-izwb003
-The custom theme used for [my cnblogs blog](https://www.cnblogs.com/izwb003/). Adapted from [BNDong's Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory).
+The Splatoon style custom theme used for [my cnblogs blog](https://www.cnblogs.com/izwb003/). Adapted from [BNDong's Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory).
 
 # Acknowledgements
 The theme templete is from @BNDong's [BNDong's Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory).
@@ -11,7 +11,7 @@ If you think there are any issues with any content, please contact me. I will ha
 
 ---
 
-[我的博客园博客](https://www.cnblogs.com/izwb003/)的自定义样式。基于[BNDong的Cnblogs-Theme-SimpleMemory]((https://github.com/BNDong/Cnblogs-Theme-SimpleMemory))调整而来。
+斯普拉遁3风的[我的博客园博客](https://www.cnblogs.com/izwb003/)的自定义样式。基于[BNDong的Cnblogs-Theme-SimpleMemory]((https://github.com/BNDong/Cnblogs-Theme-SimpleMemory))调整而来。
 
 # 致谢
 样式模板来自@BNDong的[BNDong's Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)。
