@@ -4136,15 +4136,15 @@ table#blogCalendar>tbody>tr>td>a {
 /*mouse-custom*/
 /*common*/
 body, li, item {
-	cursor: url('https://cdn.jsdelivr.net/gh/izwb003/Cnblogs-Theme-izwb003/cursor/pointer32.cur'),default!important;
+	cursor: url('https://gcore.jsdelivr.net/gh/izwb003/Cnblogs-Theme-izwb003/cursor/pointer32.cur'),default!important;
 }
 
 /*pointer*/
 a, i, button, span:not(#sbTitleText, .postMeta, #blogRunTimeSpan, .my-face, [class^="hljs-"]), .comment_btn, .comment_icon, .onOff, .diggit, .buryit, [class^="cnblogs-toc-"]  {
-	cursor: url('https://cdn.jsdelivr.net/gh/izwb003/Cnblogs-Theme-izwb003/cursor/link32.cur'),pointer!important;
+	cursor: url('https://gcore.jsdelivr.net/gh/izwb003/Cnblogs-Theme-izwb003/cursor/link32.cur'),pointer!important;
 }
 
 /*textarea*/
 textarea, input, pre, blockquote {
-	cursor: url('https://cdn.jsdelivr.net/gh/izwb003/Cnblogs-Theme-izwb003/cursor/text32.cur'),text!important;
+	cursor: url('https://gcore.jsdelivr.net/gh/izwb003/Cnblogs-Theme-izwb003/cursor/text32.cur'),text!important;
 }
