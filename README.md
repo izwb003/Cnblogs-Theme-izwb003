@@ -6,7 +6,7 @@ The Splatoon style custom theme used for [my cnblogs blog](https://www.cnblogs.c
 # Acknowledgements
 The Calamari Avatar was drawn by [Bilibili @イケメン狗](https://space.bilibili.com/162775917).
 
-**Special Note:The portrait avatar was personally drawn by this friend for me. I have an obligation to declare the protection of the copyright of her creations. Therefore, without her own permission, this avatar is prohibited from being copied, distributed, or used for any purpose in any form.**
+**Special Note:The portrait avatar was personally drawn by this friend for me. I have an obligation to declare the protection of the copyright of her creations. Therefore, without her own permission, this avatar is prohibited from being copied, distributed, or used for any purpose in any form. If you choose to use my adjustment result, please remember to remove the link to this avatar. Thanks.**
 
 The theme templete is from @BNDong's [BNDong's Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory). Customized based on its MIT License.
 
@@ -23,7 +23,7 @@ CDN connection to my blog powered by [jsdelivr](https://github.com/jsdelivr/jsde
 # 致谢
 鱿鱼头像由[Bilibili @イケメン狗](https://space.bilibili.com/162775917)定做绘制。
 
-**特别声明：该头像由这位朋友亲自为我绘制。我有义务在此声明对她创作的版权的保护。故未经她本人允许，该头像禁止以任何形式被复制、分发或用于任何用途。**
+**特别声明：该头像由这位朋友亲自为我绘制。我有义务在此声明对她创作的版权的保护。故未经她本人允许，该头像禁止以任何形式被复制、分发或用于任何用途。若您选择采纳我的调整结果，请不要忘记移除到该头像的链接。谢谢。**
 
 样式模板来自@BNDong的[BNDong's Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)。基于其MIT License进行调整。
 
