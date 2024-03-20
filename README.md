@@ -1,5 +1,3 @@
-#### 待办：更新Cnblogs-Theme-SimpleMemory版本
-
 # Cnblogs-Theme-izwb003
 The Splatoon style custom theme used for [my cnblogs blog](https://www.cnblogs.com/izwb003/). Adapted from [BNDong's Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory).
 
